@@ -6,12 +6,6 @@
 Desenvolvedor com experiência em Python e PHP, com foco em Segurança Cibernética. Busco sempre criar soluções seguras, garantindo a proteção de sistemas e dados. Estou sempre em busca de novos desafios para aprimorar minhas habilidades e contribuir para projetos inovadores.
 
 <p align="left">
-    <a href="www.linkedin.com/in/rodrigo-paixão-2b8076235">
-        <img 
-            alt="vamos se conetar?" 
-            title="vamos se conetar?" 
-            src="www.linkedin.com/in/rodrigo-paixão-2b8076235"
-        />
     </a>
     <a href="https://github.com/mitxx?tab=repositories&sort=stargazers">
         <img 
