@@ -1,4 +1,4 @@
-# *Rodrigo Paixão*
+# ⚙️ *Rodrigo Paixão*
 
 **Desenvolverdor fullstack e analista de cyber securty**
 
